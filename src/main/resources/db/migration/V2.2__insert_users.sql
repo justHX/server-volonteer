@@ -1,0 +1,5 @@
+INSERT INTO users (name, phone, age, district, street, house, flat, login, password) VALUES ('Alexey', '8902099393', 65, 'district', 'street', 'house', 'flat', 'Alexey_Win', '123');
+INSERT INTO users (name, phone, age, district, street, house, flat, login, password) VALUES ('Dmitrii', '894356778', 57, 'district1', 'street1', 'house1', 'flat1', 'Dmitrii_Top', '123ab');
+INSERT INTO users (name, phone, age, district, street, house, flat, login, password) VALUES ('Vasya', '8967886678', 49, 'district2', 'street2', 'house2', 'flat2', 'Vasya123', 'Vasya123');
+INSERT INTO users (name, phone, age, district, street, house, flat, login, password) VALUES ('Vladimir', '895677756', 78, 'district3', 'street3', 'house3', 'flat3', 'Vladimir12', '12356');
+INSERT INTO users (name, phone, age, district, street, house, flat, login, password) VALUES ('Anton', '8954646546', 90, 'district4', 'street4', 'house4', 'flat4', 'Anton_Piton', 'pythonA');

@@ -1,0 +1,16 @@
+server:
+    port: 8085
+    ssl:
+        enabled: false
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/volunteer
+        username: nkharin
+        password: postgre
+        driver-class-name: org.postgresql.Driver
+    flyway:
+        schemas: public
+        baseline-on-migrate: true
+        url: jdbc:postgresql://localhost:5432/volunteer
+        user: "nkharin"
+        password: "postgre"

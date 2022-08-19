@@ -1,0 +1,3 @@
+INSERT INTO volunteer (name, age, experience, tg_chat, phone, gender, employed_date, district, street, house, flat)  VALUES ('Slavya', 19, 5, 'telegram','89524325678','Мужской', '2022-08-14','district', 'street', 'house', 'flat');
+INSERT INTO volunteer (name, age, experience, tg_chat, phone,gender, employed_date, district, street, house, flat)  VALUES ('Max', 23, 9, 'telegram1','89344567645','Мужской', '2022-11-12','district1', 'street1', 'house1', 'flat1');
+INSERT INTO volunteer (name, age, experience, tg_chat, phone,gender, employed_date, district, street, house, flat)  VALUES ('Sanya', 16, 3, 'telegram2','88882838888','Женский', '2022-08-19','district2', 'street2', 'house2', 'flat2');

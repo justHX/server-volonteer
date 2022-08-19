@@ -1,0 +1,3 @@
+INSERT INTO task (is_read, is_process, completion_date, start_hour, end_hour, description, checking_code, volunteer_id, user_id) VALUES (false, true, '2022-08-19', '12', '16', 'description', '123', 1, 5);
+INSERT INTO task (is_read, is_process, completion_date, start_hour, end_hour, description, checking_code, volunteer_id, user_id) VALUES (true, false, '2022-09-20', '13', '17', 'description1', '123fd', 2, 5);
+INSERT INTO task (is_read, is_process, completion_date, start_hour, end_hour, description, checking_code, volunteer_id, user_id) VALUES (false, true, '2022-07-25', '14', '19', 'description2', '12gg', 3, 4);
